@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { HiPhone, HiMapPin, HiEnvelope } from 'react-icons/hi2';
 import { BsWechat } from 'react-icons/bs';
-import wechatQR from '/images/wechat-qr.jpg';
+import wechatQR from '/images/qr-site.png';
 
 const contactInfo = [
   { icon: <HiPhone size={24} />, label: '咨询电话', value: '18538711815', href: 'tel:18538711815' },
