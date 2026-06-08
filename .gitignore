@@ -1,0 +1,8 @@
+node_modules
+dist
+public/images/site-qr.svg
+public/images/qr-site.png
+compress.cjs
+.env
+.env.local
+.vercel

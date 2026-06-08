@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shiqi-art.com/sitemap.xml
